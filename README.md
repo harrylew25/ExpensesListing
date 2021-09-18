@@ -1,3 +1,6 @@
+This is a basic repo that I created to practice React project. This is a bare bone of a expenses budget listing project.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
